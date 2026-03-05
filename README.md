@@ -2,39 +2,8 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>TelecomX - Análisis de Cancelación de Clientes</title>
-<style>
-body{
-    font-family: Arial, sans-serif;
-    margin:40px;
-    background-color:#f5f5f5;
-}
+TelecomX - Análisis de Cancelación de Clientes
 
-h1,h2,h3{
-    color:#2c3e50;
-}
-
-code{
-    background:#eaeaea;
-    padding:3px 6px;
-    border-radius:4px;
-}
-
-pre{
-    background:#1e1e1e;
-    color:#ffffff;
-    padding:15px;
-    border-radius:6px;
-    overflow-x:auto;
-}
-
-.section{
-    background:white;
-    padding:20px;
-    border-radius:8px;
-    margin-bottom:20px;
-}
-</style>
 </head>
 
 <body>
